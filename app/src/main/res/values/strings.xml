@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="data_default">Avui és 00/00/0000</string>
+    <string name="btn_iniciar">Iniciar</string>
+    <string name="posar_nom">Introdueix el teu nom</string>
+    <string name="endevina">Endevina un número del 1 al 3</string>
+    <string name="escriu">Escriu el número del 1 al 3</string>
+    <string name="comprova">Comprova</string>
+</resources>
